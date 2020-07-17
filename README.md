@@ -28,3 +28,9 @@ Login Authentication included with password encrption
 ```bash
 	> /api/login
 ```
+
+### Try out
+```bash
+	> https://stark-retreat-23357.herokuapp.com/api/login
+    > https://stark-retreat-23357.herokuapp.com/api/register
+```
